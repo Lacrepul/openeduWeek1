@@ -1,7 +1,8 @@
 {
   "headers": {
     "/*": {
-      "X-Author": "sephirothrus" 
+      "X-Author": "sephirothrus",
+      "Access-Control-Allow-Origin": "*"
     }
   }
 }
